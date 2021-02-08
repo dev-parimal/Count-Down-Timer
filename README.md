@@ -1,2 +1,2 @@
 # Count-Down-Timer
-[Demo Link](https://dev-parimal.github.io/Count-Down-Timer/index.html)
+[Project Demo Link](https://dev-parimal.github.io/Count-Down-Timer/index.html)
